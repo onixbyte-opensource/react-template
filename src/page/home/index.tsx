@@ -24,7 +24,7 @@ export default function Home() {
           <div className="bg-white overflow-hidden shadow rounded-lg">
             <div className="p-6">
               <div className="flex items-center">
-                <div className="flex-shrink-0">
+                <div className="shrink-0">
                   <svg
                     className="h-8 w-8 text-blue-600"
                     fill="none"
@@ -55,7 +55,7 @@ export default function Home() {
           <div className="bg-white overflow-hidden shadow rounded-lg">
             <div className="p-6">
               <div className="flex items-center">
-                <div className="flex-shrink-0">
+                <div className="shrink-0">
                   <svg
                     className="h-8 w-8 text-green-600"
                     fill="none"
@@ -86,7 +86,7 @@ export default function Home() {
           <div className="bg-white overflow-hidden shadow rounded-lg">
             <div className="p-6">
               <div className="flex items-center">
-                <div className="flex-shrink-0">
+                <div className="shrink-0">
                   <svg
                     className="h-8 w-8 text-purple-600"
                     fill="none"
