@@ -1,4 +1,4 @@
-FROM node:20-alpine as builder
+FROM node:24-trixie-slim as builder
 WORKDIR /app
 COPY . .
 RUN corepack enable pnpm
